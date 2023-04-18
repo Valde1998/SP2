@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cae91b3-4e3e-4389-88e6-893309416396" name="Changes" comment="">
+    <list default="true" id="7cae91b3-4e3e-4389-88e6-893309416396" name="Changes" comment="hey">
+      <change afterPath="$PROJECT_DIR$/src/DieselCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElectricCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AFuelCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AFuelCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FleetOfCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FleetOfCars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GasolineCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GasolineCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +66,24 @@
       <option name="presentableId" value="Default" />
       <updated>1681820980258</updated>
       <workItem from="1681820981323" duration="7051000" />
-      <workItem from="1681835734100" duration="4274000" />
+      <workItem from="1681835734100" duration="4406000" />
+      <workItem from="1681843015754" duration="2298000" />
     </task>
+    <task id="LOCAL-00001" summary="hey">
+      <created>1681840947425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681840947425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hey" />
+    <option name="LAST_COMMIT_MESSAGE" value="hey" />
   </component>
 </project>
