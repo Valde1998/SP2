@@ -1,11 +1,11 @@
 public interface Car {
     String getRegistrationNumber();
 
-   abstract String getMake();
+    String getMake();
 
-  abstract   String getModel();
+     String getModel();
 
-  abstract   int getNumberOfDoors();
+     int getNumberOfDoors();
 
    abstract int getRegistrationFee();
 }

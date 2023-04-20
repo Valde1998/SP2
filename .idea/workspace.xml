@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cae91b3-4e3e-4389-88e6-893309416396" name="Changes" comment="hey" />
+    <list default="true" id="7cae91b3-4e3e-4389-88e6-893309416396" name="Changes" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP2/insparasion/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SP2/insparasion/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/new/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AFuelCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AFuelCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DieselCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DieselCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FleetOfCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FleetOfCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GasolineCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GasolineCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +53,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/valde/IdeaProjects/SP2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;directory&quot;
+    ]
   }
 }</component>
   <component name="RunManager">
@@ -66,7 +87,11 @@
       <updated>1681820980258</updated>
       <workItem from="1681820981323" duration="7051000" />
       <workItem from="1681835734100" duration="4406000" />
-      <workItem from="1681843015754" duration="3271000" />
+      <workItem from="1681843015754" duration="3606000" />
+      <workItem from="1681902092335" duration="3535000" />
+      <workItem from="1681906209828" duration="486000" />
+      <workItem from="1681986883279" duration="5061000" />
+      <workItem from="1681995848678" duration="2776000" />
     </task>
     <task id="LOCAL-00001" summary="hey">
       <created>1681840947425</created>
@@ -103,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681846464904</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new">
+      <created>1681846740045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846740045</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
